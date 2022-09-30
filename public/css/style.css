@@ -79,3 +79,8 @@ main {
   margin-left: 20px;
   background-color: white;
 }
+
+.error {
+  height: 500px;
+  width: 500px;
+} 
